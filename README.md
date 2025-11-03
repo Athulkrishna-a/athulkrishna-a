@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Athul Krishna A  
 🎯 **Java Developer | M.Tech in Computer Science (SCTCE)**  
-💻 I’m passionate about building scalable backend systems, interactive AR applications, and writing clean, maintainable code.
+💻 I’m passionate about building scalable backend systems and writing clean, maintainable code.
 
 ---
 
