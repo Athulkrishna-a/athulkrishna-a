@@ -74,14 +74,14 @@ I care about performance, maintainability, and writing code that remains underst
 <tr>
 <td width="50%" align="center">
   <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,hibernate,firebase" />
 <br/><br/>
 
 </td>
 
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,vscode,postman,antigravity,IntelliJ Ide" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,postman,idea,docker,maven" />
 </td>
 </tr>
 </table>
