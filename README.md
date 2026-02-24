@@ -58,14 +58,14 @@ I care about performance, maintainability, and writing code that remains underst
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=java,js,html,css,sql" />
+ <img src="https://skillicons.dev/icons?i=java,js,html,css" />
 <br/><br/>
 
 </td>
 
 <td width="50%" align="center">
    <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,springBoot,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,spring,tailwind" />
 </td>
 
 
